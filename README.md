@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Harshit Dhiman</h1>
-<h3 align="center">A passionate frontend developer from India</h3
+<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitdhiman96&label=Profile%20views&color=0e75b6&style=flat" alt="harshitdhiman96" /> </p>
 
@@ -9,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit dhiman" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit dhiman" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/harshit-dhiman-135b25287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit dhiman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harshitdhiman1902?igsh=NXVhMnkzbDFtMnFx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit dhiman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
